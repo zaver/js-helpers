@@ -2,4 +2,4 @@ js-helpers
 ==========
 
 ## Helper functions for js array manipulation.
-This is a work in progress anyone is welcome to use it, improve it or contribute to it.
+This is a work in progress and by no means production ready. Just me playing around with arrays. Welcome to contribute. 
